@@ -37,6 +37,15 @@ SmartCart is a **machine learning-powered customer segmentation system** built f
 ---
 
 ## 📁 Project Structure
+smartcart-customer-segmentation/
+
+│
+
+├── smart_cart.ipynb          # Main analysis notebook
+
+├── smartcart_customers.csv   # Customer dataset
+
+└── README.md
 
 ---
 
