@@ -71,3 +71,21 @@ jupyter notebook smart_cart.ipynb
 ---
 
 ## 🔍 Project Workflow
+Data Cleaning → EDA → Preprocessing → Elbow Method → KMeans → Cluster Profiling → Insights
+1. 🧹 **Data Cleaning** — Handle nulls, outliers, feature engineering  
+2. 📊 **EDA** — Spending patterns, income & family distributions  
+3. ⚙️ **Preprocessing** — Scaling & encoding  
+4. 📈 **Optimal K** — Elbow Method + Silhouette Score  
+5. 🤖 **KMeans Clustering** — Group customers  
+6. 🏷️ **Cluster Profiling** — Label & analyze each segment  
+7. 💼 **Business Recommendations** — Actionable strategies per segment  
+
+---
+
+## 👩‍💻 Author
+
+**Bhoomi** · [@Bhoomi-1401](https://github.com/Bhoomi-1401)
+
+---
+
+⭐ *Found this useful? Drop a star — it means a lot!*
